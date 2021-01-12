@@ -1,0 +1,1 @@
+""" Design a Python script using the Turtle graphics library to construct a turtle bar chart representing the grades obtained by N students read from a file categorizing them into distinction, first class, second class, third class and failed. """
